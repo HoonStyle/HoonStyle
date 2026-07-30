@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hoon Lim (임훈)
 
-<!--
-**HoonStyle/HoonStyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical PM — B2B Platforms | Manufacturing (EAP/CIM) · Healthcare (MDR/FDA) · AI Agent Systems**
 
-Here are some ideas to get you started:
+15 years turning technical constraints into predictable systems — in semiconductor
+fabs, regulated healthcare, and enterprise SaaS. Lately I build AI agent systems
+end-to-end, solo, to prove the decisions I make as a PM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- **[legacy-spec-agent](https://github.com/HoonStyle/legacy-spec-agent)** —
+  Claude Code / Codex plugin that reverse-generates citation-backed (`path:line`)
+  specs from undocumented legacy code. LLM reasoning is separated from a
+  deterministic verification engine (14 MCP tools, TypeScript) so the same input
+  yields the same result. 86% citation coverage vs. 0% baseline. MIT.
+- **[OhMoney-portfolio](https://github.com/HoonStyle/OhMoney-portfolio)** —
+  Architecture and product-decision record of a 20-agent LLM orchestration
+  system I planned, built, and operated alone: LangGraph control flow,
+  JSON-Schema tool calling, A/B/C auto-grading, EV-based North Star metric,
+  5-stage media pipeline with per-stage retry/DLQ.
+
+## Where I come from
+
+- **Semiconductor / Display**: MES–Equipment Integration (EAP) for AMAT CVD·PVD
+  and Array Test equipment — SECS/GEM·HSMS, 4+ years on fab floors
+- **Regulated Healthcare**: PO for a global healthcare platform — offline-first
+  architecture, 99.9% data integrity under battery/connectivity constraints,
+  MDR/FDA validation
+- **B2B SaaS (0→1)**: Co-founded a manufacturing operations platform — 30+ sites,
+  offline-first + eventual consistency
+
+**Now**: IT System Architect — leading legacy system refactoring with
+AI-assisted documentation and audit-trail workflows.
+
+📄 Portfolio: [hoonlim.short.gy/portfolio](https://hoonlim.short.gy/portfolio) ·
+💼 [LinkedIn](https://linkedin.com/in/hoonlim)
+
+
+
