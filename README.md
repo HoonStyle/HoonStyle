@@ -13,6 +13,14 @@ end-to-end, solo, to prove the decisions I make as a PM.
   specs from undocumented legacy code. LLM reasoning is separated from a
   deterministic verification engine (14 MCP tools, TypeScript) so the same input
   yields the same result. 86% citation coverage vs. 0% baseline. MIT.
+- **[greplet](https://github.com/HoonStyle/greplet)** —
+  Local hybrid search server (LanceDB vector + BM25, RRF-fused) that indexes
+  several legacy codebases, the current code, and spec PDFs as workspaces and
+  answers AI coding agents with `file :: symbol (L-range)` locations, not
+  summaries. Roslyn member-level / PdfPig page-level chunking, hash-manifest
+  incremental indexing so deletions actually leave the index, exposed as MCP +
+  Claude Code / Codex skills. Built to sit in front of legacy-spec-agent
+  (spec) and Serena (structure). MIT.
 - **[OhMoney-portfolio](https://github.com/HoonStyle/OhMoney-portfolio)** —
   Architecture and product-decision record of a 20-agent LLM orchestration
   system I planned, built, and operated alone: LangGraph control flow,
