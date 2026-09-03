@@ -11,7 +11,7 @@ end-to-end, solo, to prove the decisions I make as a PM.
 - **[legacy-spec-agent](https://github.com/HoonStyle/legacy-spec-agent)** —
   Claude Code / Codex plugin that reverse-generates citation-backed (`path:line`)
   specs from undocumented legacy code. LLM reasoning is separated from a
-  deterministic verification engine (14 MCP tools, TypeScript) so the same input
+  deterministic verification engine (16 MCP tools, TypeScript) so the same input
   yields the same result. 86% citation coverage vs. 0% baseline. MIT.
 - **[greplet](https://github.com/HoonStyle/greplet)** —
   Local hybrid search server (LanceDB vector + BM25, RRF-fused) that indexes
