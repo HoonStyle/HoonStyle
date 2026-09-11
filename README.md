@@ -44,10 +44,5 @@ work to evaluate where they help—and where they fall short.
   using SECS/GEM and HSMS, including 4+ years of fab-site work. Designed
   Core vs Plugin boundaries to reuse platform capabilities across customers.
 
-**Now**: IT System Architect at Kovis Technology, leading IT projects and legacy
-refactoring with teams of around 10 people per project, including 3–4 developers.
-I also apply my independently developed search, specification, and review tools
-to real work and evaluate their capabilities and limitations.
-
 📄 Portfolio: [hoonlim.short.gy/portfolio](https://hoonlim.short.gy/portfolio) ·
 💼 [LinkedIn](https://linkedin.com/in/hoonlim)
